@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Welcome to my Github Profile!!! 👋
+### I'm a self-taught web developer 📚️
+### My passions are: Technology, Philosophy and Freedom
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsuru-br&count_private=true) -->
 
